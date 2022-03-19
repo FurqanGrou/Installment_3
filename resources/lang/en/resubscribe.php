@@ -1,7 +1,7 @@
 <?php
 
 return [
-  'Second semester 2022' => 'Second semester 2022',
+  'Second semester 2022' => '3rd installment of the second semester 2022',
   'Information and notes' => 'Information and notes',
   'Register' => 'Register',
   'Payment and termination' => 'Payment and termination',
@@ -9,7 +9,7 @@ return [
   'Male' => 'Male',
   'Female' => 'Female',
   'Send' => 'Send',
-    'General information' => 'General information',
+    'General information' => 'Installments Form',
     'Previous' => 'Previous',
     'Section' => 'Department',
     'serial number is incorrect' => 'The serial number is incorrect',
@@ -19,8 +19,8 @@ return [
     'Email' => 'Email *',
     'Confirm Email' => 'Confirm Email *',
     'terms and conditions' => 'I certify that the above statements are correct and that I have read all the terms and conditions and pledge to abide by that.',
-    'Payment via credit card' => 'We accept all credit cards  (Mada - VISA- Master Card - American express - others) <br> Total tuition + bank fees = $125 <span style="color: red;">this is a limited time offer</span>',
-    'HSBC Bank' => 'International Transfer (HSBC Bank) --> Total Tuition + Bank Fee = $125',
+    'Payment via credit card' => 'We accept all credit cards  (Mada - VISA- Master Card - American express - others) <br> Total tuition + bank fees = $95 <span style="color: red;"></span>',
+    'HSBC Bank' => 'International Transfer (HSBC Bank) --> Total Tuition + Bank Fee = $95',
     'Registration method' => 'Registration method',
     'Bank name' => 'Bank name',
     'Name' => 'Name',
